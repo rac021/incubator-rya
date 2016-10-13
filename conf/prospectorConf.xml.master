@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+<configuration>
+    <property>
+        <name>prospector.intable</name>
+        <value>triplestore_spo</value>
+    </property>
+    <property>
+        <name>prospector.outtable</name>
+        <value>triplestore_prospects</value>
+    </property>
+    <property>
+        <name>prospector.auths</name>
+        <value>U,FOUO</value>
+    </property>
+    <property>
+        <name>instance</name>
+        <value>instance</value>
+    </property>
+    <property>
+        <name>zookeepers</name>
+        <value>leader:2181</value>
+    </property>
+    <property>
+        <name>username</name>
+        <value>root</value>
+    </property>
+    <property>
+        <name>password</name>
+        <value>password</value>
+    </property>
+</configuration>
+

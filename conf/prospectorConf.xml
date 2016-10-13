@@ -11,7 +11,7 @@
     </property>
     <property>
         <name>prospector.auths</name>
-        <value>U,FOUO</value>
+        <value>,</value>
     </property>
     <property>
         <name>instance</name>
